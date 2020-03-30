@@ -4,12 +4,12 @@ apply plugin: 'maven'
 
 group 'sdk.mobfox.com.mobfoxandroidadaptermopub'
 
-version = '4.1.8'
+version = '4.1.10'
 
 ext {
     // location of external files relative to this build.gradle file
     extFiles = [
-        main:       'MobFox-Android-MoPub-Adapter-4.1.8.jar',
+        main:       'MobFox-Android-MoPub-Adapter-4.1.10.jar',
     ]
 }
 
